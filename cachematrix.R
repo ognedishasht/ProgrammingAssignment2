@@ -116,7 +116,7 @@ SpecialMatrix objects only.")
 ## /////////////// End of the assignment ////////////////////
 ##
 ## How to test the code above:
-##m
+##
 ## 1. Let's create a matrix "m"
 #  >    m <- matrix(c(5, 0, 7, 0, 0, 8, 0, 5, 2, 0, 3, 0, 0, 5, 0, 3), nrow = 4)
 #  >    m
